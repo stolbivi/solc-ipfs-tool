@@ -1,0 +1,25 @@
+{
+  "name": "blockchain_bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "ganache": "node scripts/ganache-cli.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "@truffle/hdwallet-provider": "^2.0.4",
+    "cids": "^1.1.9",
+    "dotenv": "^16.0.0",
+    "ethers": "^5.6.2",
+    "ganache-cli": "^6.12.2",
+    "ipfs-car": "^0.7.0",
+    "nft.storage": "^6.2.0",
+    "truffle": "^5.5.7",
+    "truffle-assertions": "^0.9.2",
+    "web3-provider-engine": "^16.0.3"
+  }
+}
